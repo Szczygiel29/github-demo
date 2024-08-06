@@ -4,7 +4,6 @@ import com.example.demo.model.Branch;
 import com.example.demo.model.GithubUser;
 import com.example.demo.model.Repository;
 import lombok.AccessLevel;
-import lombok.AllArgsConstructor;
 import lombok.RequiredArgsConstructor;
 import lombok.experimental.FieldDefaults;
 import lombok.extern.slf4j.Slf4j;
